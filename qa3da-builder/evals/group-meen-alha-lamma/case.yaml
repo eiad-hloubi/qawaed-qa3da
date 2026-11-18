@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: group-meen-alha-lamma
+expected_outcome: |
+  A complete Node/Express/WebSocket qa3da project for the lamma family built per the qa3da rules: QR + link + 5-letter code to join, ready list showing everyone, mandatory boy/girl with feminized texts, group photo, host tools (close now, finish, new session, skip, replay, kick, transfer), rejoin button, 3 reveal modes, story with only @eyad.hloubi and #qa3da, render.yaml + Dockerfile + Arabic README, no photos stored server-side.
